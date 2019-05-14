@@ -280,7 +280,7 @@ source
   });
 ```
 
-The most commonly used error handling operators is
+The most commonly used error handling operator is
 [`catchError`](../operators/error_handling/catcherror.md).
 
 ### [Filtering operators](../operators/filtering/README.md)
